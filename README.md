@@ -1,0 +1,2 @@
+# Hashi
+Generator Hashi puzzle
